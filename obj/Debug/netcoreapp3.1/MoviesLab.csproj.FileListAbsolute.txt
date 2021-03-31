@@ -1,0 +1,13 @@
+C:\Users\ajaafar2\dev\Week4\MoviesLab\bin\Debug\netcoreapp3.1\MoviesLab.exe
+C:\Users\ajaafar2\dev\Week4\MoviesLab\bin\Debug\netcoreapp3.1\MoviesLab.deps.json
+C:\Users\ajaafar2\dev\Week4\MoviesLab\bin\Debug\netcoreapp3.1\MoviesLab.runtimeconfig.json
+C:\Users\ajaafar2\dev\Week4\MoviesLab\bin\Debug\netcoreapp3.1\MoviesLab.runtimeconfig.dev.json
+C:\Users\ajaafar2\dev\Week4\MoviesLab\bin\Debug\netcoreapp3.1\MoviesLab.dll
+C:\Users\ajaafar2\dev\Week4\MoviesLab\bin\Debug\netcoreapp3.1\MoviesLab.pdb
+C:\Users\ajaafar2\dev\Week4\MoviesLab\obj\Debug\netcoreapp3.1\MoviesLab.AssemblyInfoInputs.cache
+C:\Users\ajaafar2\dev\Week4\MoviesLab\obj\Debug\netcoreapp3.1\MoviesLab.AssemblyInfo.cs
+C:\Users\ajaafar2\dev\Week4\MoviesLab\obj\Debug\netcoreapp3.1\MoviesLab.csproj.CoreCompileInputs.cache
+C:\Users\ajaafar2\dev\Week4\MoviesLab\obj\Debug\netcoreapp3.1\MoviesLab.dll
+C:\Users\ajaafar2\dev\Week4\MoviesLab\obj\Debug\netcoreapp3.1\MoviesLab.pdb
+C:\Users\ajaafar2\dev\Week4\MoviesLab\obj\Debug\netcoreapp3.1\MoviesLab.genruntimeconfig.cache
+C:\Users\ajaafar2\dev\Week4\MoviesLab\obj\Debug\netcoreapp3.1\MoviesLab.csprojAssemblyReference.cache
